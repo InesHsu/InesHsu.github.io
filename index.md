@@ -13,7 +13,7 @@ As part of an initiative to showcase my expertise in regression modeling, Tablea
 
 ---
 #### [CXLens AI: Customer Feedback Chatbot Project](https://www.linkedin.com/pulse/cxlens-ai-customer-feedback-collection-analysis-chatbot-ines-hsu-p7eae)
-[<img src="./images/CXLens_Image.jpg?raw=true"/>](https://www.linkedin.com/pulse/cxlens-ai-customer-feedback-collection-analysis-chatbot-ines-hsu-p7eae)
+[<img src="./images/CXLens_Image2.jpg?raw=true"/>](https://www.linkedin.com/pulse/cxlens-ai-customer-feedback-collection-analysis-chatbot-ines-hsu-p7eae)
 To solve the long-standing challenge of fragmented customer feedback in the CPG industry, I led the development of CXLens AI—a chatbot designed to centralize, analyze, and act on customer insights in real time. Working alongside a cross-functional team, I shaped the technical framework and conversational workflow to enable sentiment-driven analysis, automated complaint categorization, and resolution suggestions, helping brands respond faster and improve continuously.
 
 ---
