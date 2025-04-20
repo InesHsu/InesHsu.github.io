@@ -3,7 +3,7 @@
 ---
 ### Learn About My Projects
 #### [Python + Tableau Dashboard: Real-time Inventory Management Project](https://www.linkedin.com/pulse/python-tableau-real-time-inventory-management-system-ines-hsu-jfane)
-[<img src="./images/Telecom.png?raw=true"/>](https://www.linkedin.com/pulse/python-tableau-real-time-inventory-management-system-ines-hsu-jfane)
+[<img src="./images/Profile_image2.jpg?raw=true"/>](https://www.linkedin.com/pulse/python-tableau-real-time-inventory-management-system-ines-hsu-jfane)
 As part of an initiative to bridge data science and frontline operations, I led the Real-Time Inventory Management project to address inefficiencies in inventory tracking across multi-location restaurants. This project showcases my expertise in machine learning, SQL automation, and Tableau dashboard design—applied to forecast demand, minimize food waste, and empower store managers with data-driven decision-making tools.
 
 ---
