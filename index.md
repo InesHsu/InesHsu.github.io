@@ -13,4 +13,10 @@ As part of an initiative to bridge data science and frontline operations, I led 
 As part of an initiative to showcase my expertise in regression modeling, Tableau visualization, and their application in predicting customer behavior, I embarked on the Telecom Churn Rate Prediction project. This project targets the critical need to minimize customer churn by enhancing our understanding and predictive capabilities regarding customer retention strategies.
 
 ---
+### Learn About My Projects
+#### [CXLens AI: Customer Feedback Chatbot Project](https://www.linkedin.com/pulse/cxlens-ai-customer-feedback-collection-analysis-chatbot-ines-hsu-p7eae)
+[<img src="./images/CXLens_Image.jpg?raw=true"/>](https://www.linkedin.com/pulse/cxlens-ai-customer-feedback-collection-analysis-chatbot-ines-hsu-p7eae)
+To solve the long-standing challenge of fragmented customer feedback in the CPG industry, I led the development of CXLens AI—a chatbot designed to centralize, analyze, and act on customer insights in real time. Working alongside a cross-functional team, I shaped the technical framework and conversational workflow to enable sentiment-driven analysis, automated complaint categorization, and resolution suggestions, helping brands respond faster and improve continuously.
+
+---
 #### [Demo](https://upperboat.github.io)
